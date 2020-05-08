@@ -1,0 +1,2 @@
+# UshtrimeJava6
+ushtrime
